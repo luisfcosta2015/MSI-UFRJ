@@ -42,7 +42,7 @@ As linguagens, técnicas, ferramentas e métodos disponíveis hoje em dia são d
 
 * Os/as alunos/as que optarem poderão ter apoio em horários fora da aulas, pelo telegram ou encontros presenciais;
 
-* Disponibilização de um ambiente de estudos na plataforma Moodle. Para ter acesso é necessário o cadastro em <https://moodle.cos.ufrj.br/> e buscar a chave xxxx cadeira MAB535 - 2018/2
+* Disponibilização de um ambiente de estudos na plataforma Moodle. Para ter acesso é necessário o cadastro em <https://moodle.cos.ufrj.br/>  Código de matricula msi2018 - cadeira MAB535 - 2018/2
 
 * Alunos vão conhecer os conceitos de gerência de projetos;
 

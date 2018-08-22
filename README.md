@@ -32,7 +32,7 @@ Vamos desenvolver projetos relacionados com a modelagem de sistemas de informaç
 
 | Aluno | Grupo 
 | --- | --- |
-|Exemplo nome aluno | Exemplo nome time 
+|Eduardo Cardoso | Time_Mao
 
 
 

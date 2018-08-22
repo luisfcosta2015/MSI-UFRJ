@@ -40,6 +40,8 @@ Vamos desenvolver projetos relacionados com a modelagem de sistemas de informaç
 |Karine Cardozo | Time_Marilio_Poney
 |Kathleen Santana | Time_Marilio_Poney
 |Yves Almeida | Time_Marilio_Poney
+|Guido Paes Vincent | Time_Guifi
+|Filipe Morandi Soraes | Time_Guifi
 
 
 

@@ -32,7 +32,10 @@ Vamos desenvolver projetos relacionados com a modelagem de sistemas de informaç
 
 | Aluno | Grupo 
 | --- | --- |
-|Eduardo Cardoso | Time_Mao
+|Eduardo Cardoso| Time_Mao
+|Gustavo Veloso | Time_Mao
+|Carlos Eduardo | Time_Mao
+|Gabriel Luna   | Time_Mao
 |Diego Rodrigues | Time_Marilio_Poney
 |Karine Cardozo | Time_Marilio_Poney
 |Kathleen Santana | Time_Marilio_Poney

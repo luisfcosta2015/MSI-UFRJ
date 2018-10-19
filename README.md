@@ -19,8 +19,4 @@ luisfcosta@cos.ufrj.br
 |Gustavo Veloso | Time_Mao
 |Carlos Eduardo | Time_Mao
 |Gabriel Luna   | Time_Mao
-
-
-
-
-
+|Diego Souza   | Time_Mao

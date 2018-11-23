@@ -43,6 +43,7 @@ Vamos desenvolver projetos relacionados com a modelagem de sistemas de informaç
 |Yves Almeida | Time_Marilio_Poney
 |Guido Paes Vincent | Time_Guifi
 |Filipe Morandi Soraes | Time_Guifi
+|Tuane Viana | Time_Guifi
 
 
 
